@@ -4,7 +4,6 @@ go 1.21.1
 
 require (
 	github.com/golang/protobuf v1.5.3
-	github.com/tjfoc/gmsm v1.4.1
 	golang.org/x/crypto v0.16.0
 	golang.org/x/net v0.19.0
 	google.golang.org/grpc v1.60.0

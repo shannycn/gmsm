@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/shannycn/gmsm/x509"
 )
 
 const (
